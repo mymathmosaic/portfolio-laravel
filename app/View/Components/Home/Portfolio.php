@@ -23,7 +23,7 @@ class Portfolio extends Component
                 'category' => ['Laravel', 'Tailwind.css'],
                 'title' => 'Portfolio Landing page built with Laravel and  Tailwindcss',
                 'image' => url('/img/portfolio-laravel.png'),
-                'github' => 'https://github.com/tradovic/portfolio-laravel'
+                'github' => 'https://github.com/mymathmosaic/portfolio-laravel'
             ],
             [
                 'category' => ['Yii2', 'Bootstrap'],
