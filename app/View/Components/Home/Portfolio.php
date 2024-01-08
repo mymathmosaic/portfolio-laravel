@@ -29,7 +29,7 @@ class Portfolio extends Component
                 'category' => ['Yii2', 'Bootstrap'],
                 'title' => 'E-commerce website with Yii2',
                 'image' => url('/img/yii2-ecommerce.jpg'),
-                'github' => 'https://github.com/tradovic'
+                'github' => 'https://github.com/mymathmosaic'
             ],
             [
                 'category' => ['PHP', 'Laravel'],
